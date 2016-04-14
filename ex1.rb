@@ -9,3 +9,5 @@ item = multi_array[1][0]
 animals.each_with_index do |animal, index|
   puts (index + 1).to_s + ':' + animal
 end
+
+# this is a new line of code
